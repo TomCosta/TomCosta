@@ -5,7 +5,7 @@
 ## I'm Everton Costa!
 
 - 🔭 &nbsp; I’m currently working on a nice project for Investitors.
-- 🌱 &nbsp; I’m currently learning Full Cycle Development at School of Net.
+- 🌱 &nbsp; I’m learning Full Cycle Development at School of Net.
 - 🤔 &nbsp; I may helps with Ionic and Angular aplications.
 - 💬 &nbsp; Ask me about Entrepreneurship and Startups.
 - 📫 &nbsp; How to reach me: maybe online any time.
