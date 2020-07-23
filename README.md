@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+<img align="right" width="375" height="438" src="https://tomsys.page/images/index-app/tomcosta.jpg">
 
 ## I'm Everton Costa!
 
@@ -22,7 +22,7 @@
 
 - Thanks for visiting. 
 
-- Enjoy it!! o/
+- See you!! o/
 <!--
 **TomCosta/TomCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
