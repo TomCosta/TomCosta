@@ -10,7 +10,7 @@
 - 💬 &nbsp; Ask me about Entrepreneurship and Startups.
 - 📫 &nbsp; How to reach me: maybe online any time.
 - 😄 &nbsp; Pronouns: we, us, our, ours, ourselves.
-- ⚡ &nbsp; Fun fact: oops, i like coffee...
+- ☕ &nbsp; Fun fact: oops, i like coffee...
 
 
 ## You may find me
