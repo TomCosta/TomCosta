@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏽
 
 <img align="right" width="375" height="438" src="https://tomsys.page/images/index-app/tomcosta.jpg">
 
