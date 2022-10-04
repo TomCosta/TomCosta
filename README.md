@@ -4,13 +4,13 @@
 
 ## I'm Everton Costa!
 
-- 💻 &nbsp; I’m currently working on a nice project for Investitors.
-- 🌱 &nbsp; I’m learning Full Cycle Development at School of Net.
-- 🤔 &nbsp; I may helps with Ionic and Angular aplications.
+- 💻 &nbsp; I’m currently working on an amazing project.
+- 🌱 &nbsp; I’m learning Full Cycle Development, front + backend.
+- 🤔 &nbsp; I may help you with Ionic and Angular aplications.
 - 💬 &nbsp; Ask me about Entrepreneurship and Startups.
 - 📫 &nbsp; How to reach me: maybe online any time.
 - 😄 &nbsp; Pronouns: we, us, our, ours, ourselves.
-- ☕ &nbsp; Fun fact: oops, i like coffee...
+- ☕ &nbsp; Fun fact: oops, i do like coffee...
 
 
 ## You may find me on:
@@ -19,7 +19,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)](https://api.whatsapp.com/send?phone=5554981641840&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:sys.everton@gmail.com)
 
-- Thanks for visiting. 
+- Thank you for your attention. 
 
 - See you!
 <!--
@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![@tomcosta's Holopin board](https://holopin.io/api/user/board?user=tomcosta)](https://holopin.io/@tomcosta)
