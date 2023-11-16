@@ -5,7 +5,7 @@
 ## I'm Everton Costa, you may call me Tom.
 
 - 💻 &nbsp; I’m currently working on an amazing project.​
-- 🤓 &nbsp; Focused in learning Artificial Intelligence (AI) to improve products and services.
+- 🤓 &nbsp; Focused in learning Artificial Intelligence (AI) to build products and services.
 - 🤔 &nbsp; I may help you with Ionic and Angular aplications.
 - 💬 &nbsp; Ask me about Entrepreneurship and Startups.
 - 📫 &nbsp; How to reach me: for sure online any time.
