@@ -2,7 +2,7 @@
 
 <img align="right" width="auto" height="360" src="https://github.com/TomCosta/TomCosta/blob/master/Everton-Tom-Costa.png">
 
-## I'm Everton Costa!
+## I'm Everton Costa, you may call me Tom.
 
 - 💻 &nbsp; I’m currently working on an amazing project.​
 - 🤓 &nbsp; Focused in learning Artificial Intelligence (AI) to improve products and services.
