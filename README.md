@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-<img align="right" width="375" height="438" src="https://tomsys.page/images/index-app/tomcosta.jpg">
+<img align="right" width="auto" height="360" src="https://github.com/TomCosta/TomCosta/blob/master/Everton-Tom-Costa.png">
 
 ## I'm Everton Costa!
 
