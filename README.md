@@ -4,13 +4,13 @@
 
 ## I'm Everton Costa!
 
-- 💻 &nbsp; I’m currently working on an amazing project.
-- 🌱 &nbsp; I’m learning Full Cycle Development, front + backend.
+- 💻 &nbsp; I’m currently working on an amazing project.​
+- 🤓 &nbsp; Focused in learning Artificial Intelligence (AI) to improve products and services.
 - 🤔 &nbsp; I may help you with Ionic and Angular aplications.
 - 💬 &nbsp; Ask me about Entrepreneurship and Startups.
-- 📫 &nbsp; How to reach me: maybe online any time.
-- 😄 &nbsp; Pronouns: we, us, our, ours, ourselves.
-- ☕ &nbsp; Fun fact: oops, i do like coffee...
+- 📫 &nbsp; How to reach me: for sure online any time.
+- 😃​ &nbsp; Pronouns: we, us, our, ours, ourselves.
+- ☕ &nbsp; A fun fact: I do love coffee...
 
 
 ## You may find me on:
